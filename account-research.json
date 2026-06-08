@@ -1,31 +1,51 @@
 {
   "username": "mycard.oman",
-  "display_name": "MyCard Oman",
+  "display_name": "دعوات إلكترونية | MyCard Oman",
   "instagram_url": "https://www.instagram.com/mycard.oman/",
-  "bio": "بطاقات أعمال ذكية بتقنية NFC | شارك معلوماتك بلمسة واحدة | تصميم عماني أصيل | توصيل لجميع محافظات سلطنة عمان",
+  "instagram_id": "74927600982",
+  "bio": "❤️❤️❤️❤️❤️❤️🥹 #oman #fyp #دعوات_إلكترونية",
+  "bio_full": "دعوات إلكترونية لجميع المناسبات | بطاقات دعوة رقمية | عُمان - مسقط | السعر: ٣ ريال عماني",
   "followers": null,
   "following": null,
-  "posts_count": null,
+  "posts_count": 13,
   "country": "Oman",
-  "city": "Muscat",
-  "phone": "+968 XXXX XXXX",
-  "email": "info@mycard.om",
-  "website": "https://mycard.om",
-  "has_website": true,
-  "niche": "Digital Business Cards / NFC Technology",
+  "city": "Muscat (مسقط)",
+  "phone": null,
+  "email": null,
+  "website": null,
+  "has_website": false,
+  "niche": "Electronic Invitation Cards / دعوات إلكترونية",
   "categories": [
-    "NFC Business Cards",
-    "Digital Business Cards",
-    "Smart Networking",
-    "Contactless Sharing"
+    "دعوات إلكترونية",
+    "بطاقات دعوة رقمية",
+    "تصاميم مناسبات",
+    "بطاقات تهنئة",
+    "توزيعات إلكترونية"
   ],
   "product_types": [
-    "NFC PVC Cards",
-    "NFC Metal Cards",
-    "NFC Wood Cards",
-    "Digital Profile Platform",
-    "QR Code Sharing",
-    "Team/Corporate Solutions"
+    "عقد قران (Marriage Contract / Nikah)",
+    "خطوبة / بشارة خطوبة (Engagement)",
+    "ليلة حناء (Henna Night)",
+    "بشارة مولود (Newborn Announcement)",
+    "قصاصات العيد (Eid Cards)",
+    "توزيعات (Party Favors/Giveaways)",
+    "دعوات زفاف (Wedding Invitations)"
   ],
-  "notes": "Account analyzed from URL structure and Oman digital business card market context. Actual Instagram data not directly accessible due to platform restrictions. Brand positioning: Premium Omani digital networking solution with NFC technology."
+  "pricing": "٣ ريال عُماني (3 OMR per design)",
+  "hashtags": [
+    "#oman", "#fyp", "#دعوات_إلكترونية", "#دعوات_إلكترونيه",
+    "#بشارة_مولود", "#عروس", "#explorepage", "#عقد_قرآن",
+    "#عيد_الأضحى", "#اكسبلور", "#سلطنة_عمان", "#حناء",
+    "#خطوبه", "#بشارة_خطوبه", "#مسقط", "#explorepage✨"
+  ],
+  "brand_colors_observed": {
+    "brown": "🤎 used in multiple designs",
+    "green": "💚 used in henna night and general designs",
+    "gold_yellow": "💛 used in engagement designs",
+    "red_pink": "❤️ used in newborn celebration designs"
+  },
+  "profile_image_url": "https://s7.imginn.com/718481071_17893059534496983_9166723829481300056_n.jpg",
+  "engagement_level": "low (2-10 likes, 0-1 comments per post)",
+  "account_type": "Small home-business / micro business",
+  "notes": "Real data extracted from actual Instagram account via public web viewers. This is a small Muscat-based home business creating electronic invitation card designs. No website, phone, or email found publicly. Pricing confirmed from post captions: 3 OMR per design."
 }

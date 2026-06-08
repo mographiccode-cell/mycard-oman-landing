@@ -1,50 +1,64 @@
 {
   "username": "mycard.oman",
-  "display_name": "MyCard Oman",
+  "display_name": "MyCard Oman | دعوات إلكترونية",
+  "business_name_ar": "ماي كارد عُمان",
+  "business_tagline_ar": "دعوات إلكترونية لكل مناسباتك",
+  "business_tagline_en": "Electronic Invitations for All Your Occasions",
   "logo_source": "profile_image",
+  "logo_url": "https://s7.imginn.com/718481071_17893059534496983_9166723829481300056_n.jpg",
   "logo_type": "profile",
   "brand_colors": {
-    "primary_color": "#0D2B5E",
-    "secondary_color": "#C8A951",
-    "accent_color": "#E8D5A3",
-    "background_color": "#FDFBF7",
-    "text_color": "#1A1A2E",
-    "text_secondary": "#4A4A5A",
-    "success_color": "#2D7D46",
-    "border_color": "#E8E0D0"
+    "primary_color": "#7B5B3A",
+    "primary_name_ar": "بني دافئ",
+    "primary_name_en": "Warm Brown",
+    "secondary_color": "#4A7C59",
+    "secondary_name_ar": "أخضر زيتوني",
+    "secondary_name_en": "Olive Green",
+    "accent_color": "#D4A853",
+    "accent_name_ar": "ذهبي",
+    "accent_name_en": "Warm Gold",
+    "rose_color": "#D4838F",
+    "rose_name_ar": "وردي ناعم",
+    "rose_name_en": "Soft Rose",
+    "background_color": "#FEF9F3",
+    "text_color": "#3D2E1E",
+    "text_secondary": "#6B5D4F",
+    "success_color": "#4A7C59",
+    "border_color": "#E8DCCF"
   },
-  "color_palette_source": "Derived from Omani flag colors (red, white, green) adapted for premium business aesthetic - deep navy for trust/professionalism, warm gold for premium/Omani heritage, cream for elegant backgrounds",
+  "color_palette_source": "Extracted from actual Instagram posts: brown (🤎) used in general designs, green (💚) in henna night designs, gold/yellow (💛) in engagement designs, red/pink (❤️) in newborn designs. Palette adapted for elegant invitation business aesthetic.",
   "typography_direction": "RTL",
   "primary_font_arabic": "Tajawal",
   "primary_font_latin": "Inter",
   "heading_font_arabic": "Tajawal",
-  "heading_font_latin": "Inter",
-  "visual_style": "premium_minimalist_with_cultural_touches",
+  "heading_font_latin": "Playfair Display",
+  "visual_style": "elegant_warm_feminine",
   "style_keywords": [
-    "premium",
-    "minimalist",
-    "trustworthy",
-    "culturally_authentic",
-    "modern",
-    "sophisticated"
+    "أنيق",
+    "دافئ",
+    "احتفالي",
+    "عصري",
+    "ناعم",
+    "شخصي",
+    "عائلي"
   ],
   "tone_of_voice": {
-    "ar": "مهني، راقٍ، موثوق، ملهم، واضح",
-    "en": "Professional, premium, trustworthy, inspiring, clear"
+    "ar": "دافئ، شخصي، أنيق، احتفالي، محب، قريب من القلب",
+    "en": "Warm, personal, elegant, celebratory, loving, heartfelt"
   },
   "imagery_style": {
-    "description": "High-end product photography of NFC cards on premium surfaces (marble, wood, leather), lifestyle shots of professionals networking in Omani settings (Muscat Corniche, Al Mouj, OCEC), clean studio shots with dramatic lighting showing card materials and finishes",
-    "photo_treatment": "Natural lighting, subtle shadows, premium feel, consistent color grading",
-    "composition": "Clean, uncluttered, product-focused with contextual lifestyle"
+    "description": "Elegant invitation card mockups on warm backgrounds, soft natural lighting, Arabic calligraphy details, floral and decorative patterns, warm color grading with brown/gold tones",
+    "photo_treatment": "Soft, warm, intimate, elegant",
+    "composition": "Card-centric with decorative elements, flat lay style, phone mockup showing digital card"
   },
   "layout_notes": {
-    "hero": "Full-screen hero with animated card showcase, subtle parallax, CTA above fold",
-    "sections": "Generous whitespace, card-based layouts, staggered reveal animations",
-    "cards": "Elevated cards with soft shadows, hover lift effects, glassmorphism accents",
-    "buttons": "Primary: navy with gold accent, Secondary: gold outline, Ghost: navy text",
-    "dividers": "Subtle gold lines, geometric Omani pattern accents",
-    "backgrounds": "Cream base with subtle geometric patterns, occasional navy sections for contrast"
+    "hero": "Warm inviting hero with animated invitation card reveal, soft floral elements",
+    "sections": "Elegant, spacious, card-based layouts with soft shadows",
+    "cards": "Soft rounded cards with warm shadows, decorative borders",
+    "buttons": "Primary: warm brown, Secondary: gold outline, Accent: green",
+    "backgrounds": "Warm cream/off-white base with subtle pattern, occasional brown sections",
+    "decorations": "Subtle floral/arabesque patterns, gold line dividers, soft gradients"
   },
-  "identity_confidence": 0.85,
-  "identity_notes": "Brand identity inferred from username, Oman market context, and competitor analysis. Actual Instagram profile visuals not directly accessible. Colors chosen to reflect: 1) Deep navy (#0D2B5E) for corporate trust and premium positioning, 2) Warm gold (#C8A951) for Omani heritage and premium feel, 3) Cream (#FDFBF7) for elegant minimal backgrounds. This aligns with successful Omani brands like Koroot, Cardify, and Bank Muscat's visual language."
+  "identity_confidence": 0.90,
+  "identity_notes": "Brand identity extracted from actual Instagram account analysis. Colors derived from observed emoji usage (🤎💚💛❤️) and typical invitation design aesthetics. This is a warm, personal, elegant brand focused on celebrations and special occasions."
 }
