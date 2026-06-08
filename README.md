@@ -1,29 +1,30 @@
 # MyCard Oman - Landing Page
 
 ## About
-Premium landing page for **MyCard Oman** (@mycard.oman), the Sultanate's premier NFC smart business card service. Built as a complete brand extension of the Instagram account, this RTL Arabic landing page showcases the full product lineup, brand identity, and provides a seamless conversion experience.
+Premium landing page for **MyCard Oman** (@mycard.oman), an electronic invitation card design service based in Muscat, Oman. The page showcases the full range of digital invitation cards for weddings, engagements, henna nights, newborn celebrations, and Eid — all priced at 3 OMR per design.
+
+Built as a complete brand extension of the Instagram account, this RTL Arabic landing page features the actual brand identity extracted from the account's posts, colors, and content.
 
 ## Features
 - **RTL Arabic** full layout optimized for GCC/Omani market
-- **Premium 3D card animations** with interactive hover/tilt effects
+- **Premium invitation card 3D animation** with interactive hover/tilt effects
 - **Tailwind CSS** as the primary styling system
-- **Custom CSS** for advanced animations & brand identity
-- **Material selector tabs** (PVC, Metal, Wood, Corporate, Digital)
-- **Responsive design** - mobile-first, works on all devices
-- **Light/Dark mode** toggle with persistence
+- **Embedded Instagram gallery** — real posts from @mycard.oman
+- **Service cards** for all event types (Marriage, Engagement, Henna, Newborn, Eid)
+- **5-step order process** visual guide
 - **Interactive FAQ accordion**
-- **Testimonial carousel** with auto-play
 - **Floating WhatsApp button** for instant contact
-- **SEO optimized** with proper meta tags
-- **NFC pulse animation** & parallax effects
-- **Accessible** - respects prefers-reduced-motion
+- **SEO optimized** with proper Arabic meta tags
+- **Responsive design** — mobile-first, all devices
+- **Accessible** — respects prefers-reduced-motion
 
 ## Brand Identity
-Colors extracted from the account's Omani premium aesthetic:
-- **Primary:** Deep Navy `#0D2B5E`
-- **Secondary:** Warm Gold `#C8A951`
-- **Background:** Cream `#FDFBF7`
-- **Text:** Charcoal `#1A1A2E`
+Colors extracted from actual account posts (real emoji usage: 🤎💚💛❤️):
+- **Primary:** Warm Brown `#7B5B3A`
+- **Secondary:** Olive Green `#4A7C59`
+- **Accent:** Warm Gold `#D4A853`
+- **Rose:** Soft Rose `#D4838F`
+- **Background:** Cream `#FEF9F3`
 
 ## Project Structure
 ```
