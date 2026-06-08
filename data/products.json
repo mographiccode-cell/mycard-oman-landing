@@ -1,0 +1,190 @@
+{
+  "product_categories": [
+    {
+      "id": "nfc-pvc",
+      "name_ar": "بطاقات NFC البلاستيكية الفاخرة",
+      "name_en": "Premium NFC PVC Cards",
+      "description_ar": "بطاقات PVC عالية الجودة مع شريحة NTAG216، طباعة UV مقاومة للخدش، متوفرة بألوان متعددة",
+      "description_en": "High-quality PVC cards with NTAG216 chip, scratch-resistant UV printing, available in multiple colors",
+      "features_ar": [
+        "شريحة NTAG216 (928 بايت)",
+        "طباعة UV مزدوجة الوجه",
+        "مقاومة للماء والخدش",
+        "متوافقة مع Apple/Google Wallet",
+        "كود QR احتياطي عالي الكثافة",
+        "لوحة تحكم لإدارة الملف الشخصي"
+      ],
+      "features_en": [
+        "NTAG216 chip (928 bytes)",
+        "Double-sided UV printing",
+        "Water & scratch resistant",
+        "Apple/Google Wallet compatible",
+        "High-density QR backup",
+        "Dashboard for profile management"
+      ],
+      "materials": ["PVC أبيض لامع", "PVC أسود مطفي", "PVC شفاف", "PVC ذهبي", "PVC فضي"],
+      "price_range_omr": "8 - 15",
+      "delivery_days": "1-3",
+      "popular": true,
+      "image_suggested": "images/posts/pvc-cards-showcase.jpg",
+      "cta_text_ar": "اطلب الآن",
+      "cta_text_en": "Order Now"
+    },
+    {
+      "id": "nfc-metal",
+      "name_ar": "بطاقات NFC المعدنية الفاخرة",
+      "name_en": "Premium NFC Metal Cards",
+      "description_ar": "بطاقات معدنية من الفولاذ المقاوم للصدأ، نقش ليزر دقيق، وزن مميز يعكس المكانة والاحترافية",
+      "description_en": "Stainless steel cards with precision laser engraving, distinctive weight reflecting status and professionalism",
+      "features_ar": [
+        "فولاذ مقاوم للصدأ 2مم",
+        "نقش ليزر دائم",
+        "وزن ~18 جرام",
+        "شريحة NTAG216 مدمجة",
+        "مقاومة تامة للتآكل",
+        "تشطيب: مبرش / لامع / ذهبي / أسود"
+      ],
+      "features_en": [
+        "2mm brushed stainless steel",
+        "Permanent laser engraving",
+        "~18g weight",
+        "Embedded NTAG216 chip",
+        "Corrosion resistant",
+        "Finishes: Brushed / Polished / Gold / Black"
+      ],
+      "materials": ["فولاذ مبرش", "فولاذ لامع", "مطلي بالذهب", "مطلي بالأسود", "تيتانيوم"],
+      "price_range_omr": "25 - 45",
+      "delivery_days": "3-5",
+      "popular": true,
+      "image_suggested": "images/posts/metal-cards-showcase.jpg",
+      "cta_text_ar": "استكشف المعدنية",
+      "cta_text_en": "Explore Metal"
+    },
+    {
+      "id": "nfc-wood",
+      "name_ar": "بطاقات NFC الخشبية الأصيلة",
+      "name_en": "Authentic NFC Wood Cards",
+      "description_ar": "بطاقات من خشب الجوز والبلوط المستدام، نقوش مستوحاة من العمارة العمانية، دفء ولمسة طبيعية فريدة",
+      "description_en": "Sustainable walnut and oak cards with engravings inspired by Omani architecture, unique natural warmth and touch",
+      "features_ar": [
+        "خشب جوز / بلوط مستدام",
+        "نقش ليزر بنقوش عمانية",
+        "خفيف الوزن ومتين",
+        "شريحة NFC مخفية",
+        "صديق للبيئة (رؤية عمان 2040)",
+        "كل بطاقة بنمط خشبي فريد"
+      ],
+      "features_en": [
+        "Sustainable walnut / oak",
+        "Laser engraved Omani patterns",
+        "Lightweight & durable",
+        "Hidden NFC chip",
+        "Eco-friendly (Oman Vision 2040)",
+        "Unique wood grain on every card"
+      ],
+      "materials": ["خشب الجوز", "خشب البلوط", "خشب الزيتون", "بامبو"],
+      "price_range_omr": "18 - 30",
+      "delivery_days": "3-5",
+      "popular": false,
+      "image_suggested": "images/posts/wood-cards-showcase.jpg",
+      "cta_text_ar": "اكتشف الخشبية",
+      "cta_text_en": "Discover Wood"
+    },
+    {
+      "id": "corporate",
+      "name_ar": "حلول الشركات والفرق",
+      "name_en": "Corporate & Team Solutions",
+      "description_ar": "إدارة مركزية لبطاقات الفريق، قوالب موحدة، طلبات بالجملة، لوحة تحكم إدارية، تكامل مع أنظمة الموارد البشرية",
+      "description_en": "Centralized team card management, unified templates, bulk orders, admin dashboard, HR system integration",
+      "features_ar": [
+        "لوحة تحكم إدارية موحدة",
+        "قوالب موحدة للعلامة التجارية",
+        "طلب جماعي بتخفيضات",
+        "إدارة صلاحيات الأعضاء",
+        "تقارير تحليلية للمسح",
+        "تكامل API متاح",
+        "دعم مخصص للشركات",
+        "توصيل مجاني للطلبات الكبيرة"
+      ],
+      "features_en": [
+        "Unified admin dashboard",
+        "Brand-consistent templates",
+        "Bulk discounts",
+        "Member permission management",
+        "Scan analytics reports",
+        "API integration available",
+        "Dedicated corporate support",
+        "Free delivery on large orders"
+      ],
+      "materials": ["PVC", "Metal", "Wood", "Mixed"],
+      "price_range_omr": "من 6 لكل بطاقة (50+)",
+      "delivery_days": "5-7",
+      "popular": true,
+      "image_suggested": "images/posts/corporate-team.jpg",
+      "cta_text_ar": "تواصل للمبيعات",
+      "cta_text_en": "Contact Sales"
+    },
+    {
+      "id": "digital-only",
+      "name_ar": "الملف الشخصي الرقمي فقط",
+      "name_en": "Digital Profile Only",
+      "description_ar": "ملف شخصي رقمي كامل مع كود QR وروابط قابلة للمشاركة، بدون بطاقة فعلية - مثالي للبدء الفوري",
+      "description_en": "Complete digital profile with QR code and shareable links, no physical card - perfect for instant start",
+      "features_ar": [
+        "ملف شخصي ثنائي اللغة",
+        "كود QR قابل للتتبع",
+        "مشاركة عبر واتساب/إيميل",
+        "تحديث فوري للمعلومات",
+        "تحليلات مشاهدات أساسية",
+        "مجاني للأبد (خطة البداية)"
+      ],
+      "features_en": [
+        "Bilingual digital profile",
+        "Trackable QR code",
+        "WhatsApp/Email sharing",
+        "Instant info updates",
+        "Basic view analytics",
+        "Free forever (Starter plan)"
+      ],
+      "materials": ["Digital Only"],
+      "price_range_omr": "مجاني",
+      "delivery_days": "فوري",
+      "popular": false,
+      "image_suggested": "images/posts/digital-profile.jpg",
+      "cta_text_ar": "ابدأ مجاناً",
+      "cta_text_en": "Start Free"
+    }
+  ],
+  "accessories": [
+    {
+      "id": "card-holder",
+      "name_ar": "حافظة بطاقات جلدية",
+      "name_en": "Leather Card Holder",
+      "price_omr": "12",
+      "image_suggested": "images/posts/leather-holder.jpg"
+    },
+    {
+      "id": "metal-stand",
+      "name_ar": "حامل بطاقة معدني للمكتب",
+      "name_en": "Metal Desk Card Stand",
+      "price_omr": "8",
+      "image_suggested": "images/posts/metal-stand.jpg"
+    }
+  ],
+  "comparison_table": {
+    "attributes": [
+      "المادة",
+      "المتانة",
+      "الوزن",
+      "السعر (ر.ع.)",
+      "التوصيل",
+      "الأفضل لـ"
+    ],
+    "rows": [
+      ["PVC فاخر", "عالية", "خفيف", "8-15", "1-3 أيام", "الاستخدام اليومي، الفرق"],
+      ["معدن (فولاذ)", "الأعلى", "ثقيل (~18جم)", "25-45", "3-5 أيام", "التنفيذيون، الهدايا، الوفود"],
+      ["خشب طبيعي", "متوسطة", "خفيف", "18-30", "3-5 أيام", "التميز، الاستدامة، الإبداع"],
+      ["رقمي فقط", "غير محدود", "لا شيء", "مجاني", "فوري", "البدء السريع، الاختبار"]
+    ]
+  }
+}

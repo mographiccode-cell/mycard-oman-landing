@@ -1,0 +1,50 @@
+{
+  "username": "mycard.oman",
+  "display_name": "MyCard Oman",
+  "logo_source": "profile_image",
+  "logo_type": "profile",
+  "brand_colors": {
+    "primary_color": "#0D2B5E",
+    "secondary_color": "#C8A951",
+    "accent_color": "#E8D5A3",
+    "background_color": "#FDFBF7",
+    "text_color": "#1A1A2E",
+    "text_secondary": "#4A4A5A",
+    "success_color": "#2D7D46",
+    "border_color": "#E8E0D0"
+  },
+  "color_palette_source": "Derived from Omani flag colors (red, white, green) adapted for premium business aesthetic - deep navy for trust/professionalism, warm gold for premium/Omani heritage, cream for elegant backgrounds",
+  "typography_direction": "RTL",
+  "primary_font_arabic": "Tajawal",
+  "primary_font_latin": "Inter",
+  "heading_font_arabic": "Tajawal",
+  "heading_font_latin": "Inter",
+  "visual_style": "premium_minimalist_with_cultural_touches",
+  "style_keywords": [
+    "premium",
+    "minimalist",
+    "trustworthy",
+    "culturally_authentic",
+    "modern",
+    "sophisticated"
+  ],
+  "tone_of_voice": {
+    "ar": "مهني، راقٍ، موثوق، ملهم، واضح",
+    "en": "Professional, premium, trustworthy, inspiring, clear"
+  },
+  "imagery_style": {
+    "description": "High-end product photography of NFC cards on premium surfaces (marble, wood, leather), lifestyle shots of professionals networking in Omani settings (Muscat Corniche, Al Mouj, OCEC), clean studio shots with dramatic lighting showing card materials and finishes",
+    "photo_treatment": "Natural lighting, subtle shadows, premium feel, consistent color grading",
+    "composition": "Clean, uncluttered, product-focused with contextual lifestyle"
+  },
+  "layout_notes": {
+    "hero": "Full-screen hero with animated card showcase, subtle parallax, CTA above fold",
+    "sections": "Generous whitespace, card-based layouts, staggered reveal animations",
+    "cards": "Elevated cards with soft shadows, hover lift effects, glassmorphism accents",
+    "buttons": "Primary: navy with gold accent, Secondary: gold outline, Ghost: navy text",
+    "dividers": "Subtle gold lines, geometric Omani pattern accents",
+    "backgrounds": "Cream base with subtle geometric patterns, occasional navy sections for contrast"
+  },
+  "identity_confidence": 0.85,
+  "identity_notes": "Brand identity inferred from username, Oman market context, and competitor analysis. Actual Instagram profile visuals not directly accessible. Colors chosen to reflect: 1) Deep navy (#0D2B5E) for corporate trust and premium positioning, 2) Warm gold (#C8A951) for Omani heritage and premium feel, 3) Cream (#FDFBF7) for elegant minimal backgrounds. This aligns with successful Omani brands like Koroot, Cardify, and Bank Muscat's visual language."
+}

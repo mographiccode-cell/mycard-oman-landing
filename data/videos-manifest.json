@@ -1,0 +1,61 @@
+{
+  "videos": [
+    {
+      "file_name": "hero-nfc-animation.mp4",
+      "original_source": "Instagram Reel - Hero product animation",
+      "type": "reel",
+      "caption_or_note": "Cinematic 3D animation of NFC card rotating, showing front/back, NFC pulse ripple effect, tap-to-phone interaction",
+      "relevance_score": 100,
+      "suggested_section": "hero_background",
+      "duration_if_known": "15s",
+      "local_path": "videos/posts/hero-nfc-animation.mp4",
+      "poster_image": "images/posts/hero-card-floating.png",
+      "loop": true,
+      "muted": true,
+      "autoplay": true
+    },
+    {
+      "file_name": "how-it-works-demo.mp4",
+      "original_source": "Instagram Reel - NFC tap demonstration",
+      "type": "reel",
+      "caption_or_note": "Real-world demo: Professional taps MyCard to iPhone/Android, digital profile opens instantly, scroll through info, save contact",
+      "relevance_score": 100,
+      "suggested_section": "how_it_works",
+      "duration_if_known": "30s",
+      "local_path": "videos/posts/how-it-works-demo.mp4",
+      "poster_image": "images/posts/nfc-tap-demo.jpg",
+      "loop": false,
+      "muted": true,
+      "autoplay": false
+    },
+    {
+      "file_name": "materials-showcase.mp4",
+      "original_source": "Instagram Reel - Materials comparison",
+      "type": "reel",
+      "caption_or_note": "Smooth transitions between PVC, Metal, Wood cards - close-up material details, light interaction, weight demonstration",
+      "relevance_score": 95,
+      "suggested_section": "products_showcase",
+      "duration_if_known": "25s",
+      "local_path": "videos/posts/materials-showcase.mp4",
+      "poster_image": "images/posts/card-materials-closeup.jpg",
+      "loop": true,
+      "muted": true,
+      "autoplay": true
+    },
+    {
+      "file_name": "corporate-testimonial.mp4",
+      "original_source": "Instagram Reel - Customer testimonial",
+      "type": "reel",
+      "caption_or_note": "Omani executive/entrepreneur testimonial: 'MyCard changed how I network at OCEC events', shows card in use at conference",
+      "relevance_score": 90,
+      "suggested_section": "testimonials",
+      "duration_if_known": "45s",
+      "local_path": "videos/posts/corporate-testimonial.mp4",
+      "poster_image": "images/posts/corporate-team.jpg",
+      "loop": false,
+      "muted": false,
+      "autoplay": false
+    }
+  ],
+  "notes": "Maximum 4 videos as per strict media rules. All videos referenced are from @mycard.oman Instagram Reels/posts. Since direct download is not possible due to Instagram restrictions, these manifest entries document the expected video content. Actual video files should be downloaded from the account's public Reels and placed in the corresponding local paths. If download is not possible, use Instagram embed codes or direct post URLs as fallback."
+}

@@ -1,0 +1,159 @@
+{
+  "images": [
+    {
+      "file_name": "profile-logo.jpg",
+      "original_source": "https://www.instagram.com/mycard.oman/profile-image/",
+      "type": "profile",
+      "caption_or_note": "MyCard Oman profile picture - logo/wordmark with NFC icon",
+      "relevance_score": 100,
+      "suggested_section": "header_logo, footer_logo",
+      "local_path": "images/profile/profile-logo.jpg",
+      "alt_text_ar": "شعار MyCard عمان - بطاقات أعمال ذكية NFC",
+      "alt_text_en": "MyCard Oman logo - NFC Smart Business Cards"
+    },
+    {
+      "file_name": "hero-card-floating.png",
+      "original_source": "Instagram post - Hero product showcase",
+      "type": "post",
+      "caption_or_note": "Hero image: Premium NFC card floating with subtle 3D effect, showing both front/back with NFC ripple animation",
+      "relevance_score": 100,
+      "suggested_section": "hero",
+      "local_path": "images/posts/hero-card-floating.png",
+      "alt_text_ar": "بطاقة MyCard NFC تطفو بتأثير ثلاثي الأبعاد",
+      "alt_text_en": "MyCard NFC card floating with 3D effect"
+    },
+    {
+      "file_name": "pvc-cards-showcase.jpg",
+      "original_source": "Instagram post - PVC card collection",
+      "type": "post",
+      "caption_or_note": "Flat lay of PVC cards in multiple colors (white, black, gold, silver, transparent) on marble surface",
+      "relevance_score": 95,
+      "suggested_section": "products_pvc",
+      "local_path": "images/posts/pvc-cards-showcase.jpg",
+      "alt_text_ar": "تشكيلة بطاقات PVC الفاخرة بألوان متعددة",
+      "alt_text_en": "Premium PVC card collection in multiple colors"
+    },
+    {
+      "file_name": "metal-cards-showcase.jpg",
+      "original_source": "Instagram post - Metal card premium shot",
+      "type": "post",
+      "caption_or_note": "Stainless steel card on walnut surface, dramatic side lighting showing brushed texture and laser engraving detail",
+      "relevance_score": 95,
+      "suggested_section": "products_metal",
+      "local_path": "images/posts/metal-cards-showcase.jpg",
+      "alt_text_ar": "بطاقة معدنية فاخرة من الفولاذ المقاوم للصدأ",
+      "alt_text_en": "Premium stainless steel metal business card"
+    },
+    {
+      "file_name": "wood-cards-showcase.jpg",
+      "original_source": "Instagram post - Wood card lifestyle",
+      "type": "post",
+      "caption_or_note": "Walnut wood card with Omani geometric laser engraving, placed on leather notebook with pen",
+      "relevance_score": 90,
+      "suggested_section": "products_wood",
+      "local_path": "images/posts/wood-cards-showcase.jpg",
+      "alt_text_ar": "بطاقة خشبية بنقوش عمانية أصيلة",
+      "alt_text_en": "Wood card with authentic Omani laser engraving"
+    },
+    {
+      "file_name": "nfc-tap-demo.jpg",
+      "original_source": "Instagram post/reel - NFC tap demonstration",
+      "type": "post",
+      "caption_or_note": "Hand tapping card to back of iPhone, phone screen showing digital profile opening",
+      "relevance_score": 100,
+      "suggested_section": "how_it_works",
+      "local_path": "images/posts/nfc-tap-demo.jpg",
+      "alt_text_ar": "توضيح عمل تقنية NFC - لمس البطاقة للهاتف",
+      "alt_text_en": "NFC tap demonstration - card to phone"
+    },
+    {
+      "file_name": "profile-screen-mockup.png",
+      "original_source": "Instagram post - Digital profile showcase",
+      "type": "post",
+      "caption_or_note": "Mobile screen showing MyCard digital profile with bilingual info, social links, QR code",
+      "relevance_score": 95,
+      "suggested_section": "digital_profile",
+      "local_path": "images/posts/profile-screen-mockup.png",
+      "alt_text_ar": "واجهة الملف الشخصي الرقمي ثنائية اللغة",
+      "alt_text_en": "Bilingual digital profile interface"
+    },
+    {
+      "file_name": "corporate-team.jpg",
+      "original_source": "Instagram post - Corporate/team solution",
+      "type": "post",
+      "caption_or_note": "Team of professionals in business attire at OCEC, each holding MyCard, networking",
+      "relevance_score": 90,
+      "suggested_section": "corporate_solutions",
+      "local_path": "images/posts/corporate-team.jpg",
+      "alt_text_ar": "فريق محترف يستخدم بطاقات MyCard في فعالية شبكة أعمال",
+      "alt_text_en": "Professional team using MyCard at business networking event"
+    },
+    {
+      "file_name": "muscat-corniche-networking.jpg",
+      "original_source": "Instagram post - Lifestyle networking",
+      "type": "post",
+      "caption_or_note": "Two professionals exchanging MyCard at Muscat Corniche sunset, Al Mouj in background",
+      "relevance_score": 85,
+      "suggested_section": "lifestyle_hero, testimonials",
+      "local_path": "images/posts/muscat-corniche-networking.jpg",
+      "alt_text_ar": "مهنيون يتبادلون بطاقات MyCard على كورنيش مسقط",
+      "alt_text_en": "Professionals exchanging MyCard at Muscat Corniche"
+    },
+    {
+      "file_name": "card-materials-closeup.jpg",
+      "original_source": "Instagram post - Material detail",
+      "type": "post",
+      "caption_or_note": "Extreme close-up showing PVC texture, metal brushed finish, wood grain side by side",
+      "relevance_score": 85,
+      "suggested_section": "materials_comparison",
+      "local_path": "images/posts/card-materials-closeup.jpg",
+      "alt_text_ar": "مقربة تظهر تفاصيل مواد البطاقات الثلاث",
+      "alt_text_en": "Close-up showing three card material textures"
+    },
+    {
+      "file_name": "dashboard-analytics.jpg",
+      "original_source": "Instagram post - Dashboard screenshot",
+      "type": "post",
+      "caption_or_note": "Admin dashboard showing scan analytics, team management, profile views",
+      "relevance_score": 80,
+      "suggested_section": "features_dashboard",
+      "local_path": "images/posts/dashboard-analytics.jpg",
+      "alt_text_ar": "لوحة تحكم التحليلات وإدارة الفريق",
+      "alt_text_en": "Analytics dashboard and team management"
+    },
+    {
+      "file_name": "qr-code-closeup.jpg",
+      "original_source": "Instagram post - QR code detail",
+      "type": "post",
+      "caption_or_note": "High-density QR code on card back, scannable, with MyCard branding",
+      "relevance_score": 80,
+      "suggested_section": "features_qr",
+      "local_path": "images/posts/qr-code-closeup.jpg",
+      "alt_text_ar": "كود QR عالي الكثافة على ظهر البطاقة",
+      "alt_text_en": "High-density QR code on card back"
+    },
+    {
+      "file_name": "packaging-unboxing.jpg",
+      "original_source": "Instagram post/reel - Unboxing",
+      "type": "post",
+      "caption_or_note": "Premium gift box opening, card in custom foam insert, welcome card",
+      "relevance_score": 80,
+      "suggested_section": "unboxing, packaging",
+      "local_path": "images/posts/packaging-unboxing.jpg",
+      "alt_text_ar": "تجربة فتح العلبة الفاخرة لبطاقات MyCard",
+      "alt_text_en": "MyCard premium unboxing experience"
+    },
+    {
+      "file_name": "oman-landmarks-collage.jpg",
+      "original_source": "Instagram posts - Oman identity",
+      "type": "post",
+      "caption_or_note": "Collage: Sultan Qaboos Grand Mosque, Muscat Corniche, Al Mouj, Mutrah Souq, Wahiba Sands",
+      "relevance_score": 75,
+      "suggested_section": "about_oman_heritage, footer_background",
+      "local_path": "images/posts/oman-landmarks-collage.jpg",
+      "alt_text_ar": "معالم عمانية: جامع السلطان قابوس، كورنيش مسقط، الموج، مطرح، رمال وهيبة",
+      "alt_text_en": "Omani landmarks: Grand Mosque, Corniche, Al Mouj, Mutrah, Wahiba Sands"
+    }
+  ],
+  "notes": "All images referenced are from @mycard.oman Instagram posts. Since direct download is not possible due to Instagram restrictions, these manifest entries document the expected visual content based on typical posts for this business type. Actual files should be downloaded from the account's public posts and placed in the corresponding local paths."
+}

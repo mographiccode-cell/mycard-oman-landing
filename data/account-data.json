@@ -1,0 +1,41 @@
+{
+  "username": "mycard.oman",
+  "display_name": "MyCard Oman",
+  "instagram_url": "https://www.instagram.com/mycard.oman/",
+  "bio": "بطاقات أعمال ذكية بتقنية NFC | شارك معلوماتك بلمسة واحدة | تصميم عماني أصيل | توصيل لجميع محافظات سلطنة عمان",
+  "profile_image_url": "https://www.instagram.com/mycard.oman/profile-image/",
+  "followers_count": null,
+  "following_count": null,
+  "posts_count": null,
+  "is_verified": false,
+  "is_business": true,
+  "business_category": "Technology / Business Services",
+  "contact": {
+    "phone": "+968 XXXX XXXX",
+    "email": "info@mycard.om",
+    "website": "https://mycard.om",
+    "address": "Muscat, Sultanate of Oman",
+    "whatsapp": "+968 XXXX XXXX"
+  },
+  "location": {
+    "country": "Oman",
+    "city": "Muscat",
+    "serves": ["Muscat", "Salalah", "Sohar", "Nizwa", "Sur", "Ibri", "Duqm", "All Governorates"]
+  },
+  "highlights": [
+    "منتجاتنا",
+    "كيف تعمل",
+    "آراء العملاء",
+    "للشركات",
+    "تواصل معنا"
+  ],
+  "niche": "Digital Business Cards / NFC Technology",
+  "tags": [
+    "NFC Business Cards Oman",
+    "Digital Business Cards Muscat",
+    "Smart Business Cards",
+    "Contactless Networking",
+    "Oman Business",
+    "Muscat Professionals"
+  ]
+}
