@@ -53,8 +53,8 @@ mycard.oman/
 ## How to Run Locally
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USER/mycard-oman.git
-cd mycard-oman
+git clone https://github.com/mographiccode-cell/mycard-oman-landing.git
+cd mycard-oman-landing
 ```
 
 2. Open `landing-page.html` in your browser, or use a local server:
@@ -79,7 +79,7 @@ npx serve .
 - All images/videos referenced are from this account only
 
 ## Live URL
-**[https://YOUR_USER.github.io/mycard-oman/landing-page.html](https://YOUR_USER.github.io/mycard-oman/landing-page.html)**
+**[https://mographiccode-cell.github.io/mycard-oman-landing/landing-page.html](https://mographiccode-cell.github.io/mycard-oman-landing/landing-page.html)**
 
 ## Tech Stack
 - HTML5
