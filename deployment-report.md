@@ -19,7 +19,7 @@
 - **Location:** Muscat, Oman
 - **Pricing:** 3 OMR per design
 - **Services:** Marriage contract, Engagement, Henna night, Newborn, Eid cards, Wedding packages
-- **Brand Colors:** Warm Brown, Olive Green, Gold, Soft Rose
+- **Brand Colors:** Gold (#C8A951), Dark Navy (#1A2A4A), Light Gold (#E8CC8A) — from actual logo
 - **Profile Image:** From actual Instagram CDN (embedded via proxy URL)
 
 ## Image Sourcing
