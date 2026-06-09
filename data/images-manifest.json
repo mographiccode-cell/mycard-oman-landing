@@ -2,61 +2,86 @@
   "images": [
     {
       "file_name": "profile-logo.jpg",
-      "original_source": "https://s7.imginn.com/718481071_17893059534496983_9166723829481300056_n.jpg",
+      "original_source": "https://www.instagram.com/mycard.oman/ (profile picture CDN)",
       "type": "profile",
-      "caption_or_note": "MyCard Oman profile picture",
+      "caption_or_note": "MyCard Oman profile picture - real account logo",
       "relevance_score": 100,
       "suggested_section": "header_logo, footer_logo",
-      "alt_text_ar": "شعار MyCard عُمان - دعوات إلكترونية"
+      "local_path": "images/profile/profile-logo.jpg",
+      "size_kb": 77.5
     },
     {
-      "file_name": "post-marriage-1.jpg",
-      "original_source": "https://www.instagram.com/p/DXztHbzDKaN/",
+      "file_name": "service-marriage.jpg",
+      "original_source": "https://www.instagram.com/p/DXkaS0ODHX6/ (carousel post)",
       "type": "post",
-      "caption_or_note": "Marriage contract invitation design - carousel post",
+      "caption_or_note": "Marriage/engagement invitation design - warm brown and gold palette",
+      "relevance_score": 100,
+      "suggested_section": "hero, services_marriage",
+      "local_path": "images/posts/service-marriage.jpg",
+      "size_kb": 135.4
+    },
+    {
+      "file_name": "service-engagement.jpg",
+      "original_source": "https://www.instagram.com/p/DXkZQYxjCsy/ (carousel post)",
+      "type": "post",
+      "caption_or_note": "Engagement celebration invitation design",
+      "relevance_score": 100,
+      "suggested_section": "services_engagement",
+      "local_path": "images/posts/service-engagement.jpg",
+      "size_kb": 126
+    },
+    {
+      "file_name": "service-henna.jpg",
+      "original_source": "https://www.instagram.com/p/DXkZhrRjLRc/ (single post)",
+      "type": "post",
+      "caption_or_note": "Henna night invitation with green color theme",
+      "relevance_score": 100,
+      "suggested_section": "services_henna",
+      "local_path": "images/posts/service-henna.jpg",
+      "size_kb": 120.1
+    },
+    {
+      "file_name": "service-newborn.jpg",
+      "original_source": "https://www.instagram.com/p/DV1kEIIDCjz/ (single post)",
+      "type": "post",
+      "caption_or_note": "Newborn celebration card with pink/rose color theme",
       "relevance_score": 95,
-      "suggested_section": "gallery, portfolio"
+      "suggested_section": "services_newborn",
+      "local_path": "images/posts/service-newborn.jpg",
+      "size_kb": 143.6
     },
     {
-      "file_name": "post-engagement-1.jpg",
-      "original_source": "https://www.instagram.com/p/DXkaS0ODHX6/",
+      "file_name": "service-eid.jpg",
+      "original_source": "https://www.instagram.com/p/DXzJbvqjA34/ (single post)",
       "type": "post",
-      "caption_or_note": "Engagement announcement design - carousel post",
-      "relevance_score": 95,
-      "suggested_section": "gallery, portfolio"
-    },
-    {
-      "file_name": "post-henna-1.jpg",
-      "original_source": "https://www.instagram.com/p/DXkZhrRjLRc/",
-      "type": "post",
-      "caption_or_note": "Henna night invitation design",
-      "relevance_score": 95,
-      "suggested_section": "gallery, portfolio"
-    },
-    {
-      "file_name": "post-newborn-1.jpg",
-      "original_source": "https://www.instagram.com/p/DV1kEIIDCjz/",
-      "type": "post",
-      "caption_or_note": "Newborn celebration card design",
+      "caption_or_note": "General/eid celebration invitation design",
       "relevance_score": 90,
-      "suggested_section": "gallery, portfolio"
+      "suggested_section": "services_eid",
+      "local_path": "images/posts/service-eid.jpg",
+      "size_kb": 64.1
     },
     {
-      "file_name": "post-engagement-2.jpg",
-      "original_source": "https://www.instagram.com/p/DXkZQYxjCsy/",
+      "file_name": "hero-main.jpg",
+      "original_source": "https://www.instagram.com/p/DXztHbzDKaN/ (carousel post)",
       "type": "post",
-      "caption_or_note": "Additional engagement design - carousel post",
-      "relevance_score": 90,
-      "suggested_section": "gallery, portfolio"
+      "caption_or_note": "Main invitation card design - hero showcase image",
+      "relevance_score": 100,
+      "suggested_section": "hero_animation",
+      "local_path": "images/posts/hero-main.jpg",
+      "size_kb": 77.5
     },
     {
-      "file_name": "post-general-1.jpg",
-      "original_source": "https://www.instagram.com/p/DXzJbvqjA34/",
+      "file_name": "gallery-*.jpg (6 images)",
+      "original_source": "Multiple Instagram posts from @mycard.oman",
       "type": "post",
-      "caption_or_note": "General invitation design",
+      "caption_or_note": "Assorted invitation card designs for gallery display",
       "relevance_score": 85,
-      "suggested_section": "gallery, portfolio"
+      "suggested_section": "gallery_grid",
+      "local_path": "images/posts/gallery-1.jpg through gallery-6.jpg"
     }
   ],
-  "notes": "All images are referenced from actual Instagram posts of @mycard.oman. Images are embedded via Instagram's official embed iframe on the landing page since direct download is restricted (403 Forbidden). The profile image URL is from Imginn proxy."
+  "total_images_downloaded": 31,
+  "download_method": "Playwright headless browser automation",
+  "sources_used": "Only from Instagram account @mycard.oman posts",
+  "notes": "All images successfully downloaded from the actual Instagram CDN (scontent-mct1-2.cdninstagram.com) using Playwright browser automation. Images are real post content from the account. Profile picture downloaded via the same method."
 }
